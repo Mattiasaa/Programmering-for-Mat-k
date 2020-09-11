@@ -13,4 +13,26 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
 
+pi = 3.14153
+r = 1
+
+V = 4/3*pi*r**3
+
+print(V)
+
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
+print(V)
+
+r = 3
+
+V = 4 / 3 * pi * r ** 3
+
+print(V)
+
+r = 10
+
+V = 4 / 3 * pi * r ** 3
+
+print(V)
+
+n+n**2+n**3 for n=3,9,−1
